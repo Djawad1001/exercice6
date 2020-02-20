@@ -36,3 +36,6 @@ background: repeating-linear-gradient(
 .premiereLettre::first-letter{
     color:red;
 }
+.premiereLigne::first-line{
+    color:orange;
+}
