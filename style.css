@@ -14,10 +14,10 @@
 body {
     font-family:'Roboto', sans-serif;
 }
-/*
+
 h1:not(.site-title):before, h2:before{
     display:none;
-}*/
+}
 .entry .entry-title:before{
     display:none;
 }
@@ -39,3 +39,8 @@ background: repeating-linear-gradient(
 .premiereLigne::first-line{
     color:orange;
 }
+
+.ImageOmbrePortee{
+    box-shadow: 2px 2px black;
+}
+
